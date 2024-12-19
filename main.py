@@ -14,7 +14,7 @@ elif num > 1:
             flag = True
 # break out of loop
         break
-# check if flag is True
+# check if flag is True MLK.19
 if flag:
     print(num, "is not a prime number")
 else:
